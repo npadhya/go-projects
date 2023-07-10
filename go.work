@@ -1,0 +1,15 @@
+go 1.18
+
+use ./InterfaceExample
+use ./ConcurrencyExample
+use ./SliceExample
+use ./DoubleLinkedListExample
+use ./ContextExample
+use ./ConfigurationPatternExample
+use ./GenericsExample
+use ./InceptionExample
+use ./BenchmarkExample
+use ./Gin_CRUD_API
+use ./GeneralCode
+use ./ObserverPatternExample
+use ./BTreeImplementation
