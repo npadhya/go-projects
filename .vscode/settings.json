@@ -1,0 +1,9 @@
+{
+    "go.alternateTools": {
+
+    },
+    "go.delveConfig": {
+
+    },
+    "go.toolsManagement.checkForUpdates": "local"
+}

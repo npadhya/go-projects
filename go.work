@@ -13,3 +13,4 @@ use ./Gin_CRUD_API
 use ./GeneralCode
 use ./ObserverPatternExample
 use ./BTreeImplementation
+use ./TickerExample
